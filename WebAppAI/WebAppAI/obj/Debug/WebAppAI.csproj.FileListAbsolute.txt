@@ -1,0 +1,6 @@
+D:\TFS\Rangloke\AI\WebAppAI\WebAppAI\bin\WebAppAI.dll.config
+D:\TFS\Rangloke\AI\WebAppAI\WebAppAI\bin\WebAppAI.dll
+D:\TFS\Rangloke\AI\WebAppAI\WebAppAI\bin\WebAppAI.pdb
+D:\TFS\Rangloke\AI\WebAppAI\WebAppAI\obj\Debug\WebAppAI.csprojResolveAssemblyReference.cache
+D:\TFS\Rangloke\AI\WebAppAI\WebAppAI\obj\Debug\WebAppAI.dll
+D:\TFS\Rangloke\AI\WebAppAI\WebAppAI\obj\Debug\WebAppAI.pdb

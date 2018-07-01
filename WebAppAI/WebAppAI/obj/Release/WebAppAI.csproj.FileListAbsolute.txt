@@ -1,0 +1,5 @@
+D:\TFS\Rangloke\AI\WebAppAI\WebAppAI\bin\WebAppAI.dll.config
+D:\TFS\Rangloke\AI\WebAppAI\WebAppAI\bin\WebAppAI.dll
+D:\TFS\Rangloke\AI\WebAppAI\WebAppAI\bin\WebAppAI.pdb
+D:\TFS\Rangloke\AI\WebAppAI\WebAppAI\obj\Release\WebAppAI.dll
+D:\TFS\Rangloke\AI\WebAppAI\WebAppAI\obj\Release\WebAppAI.pdb
